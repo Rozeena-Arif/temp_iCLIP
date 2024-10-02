@@ -1,0 +1,8 @@
+name: bbmap
+channels:
+  - nanoporetech
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bbmap

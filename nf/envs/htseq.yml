@@ -1,0 +1,8 @@
+name: htseq
+channels:
+  - nanoporetech
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - htseq-clip

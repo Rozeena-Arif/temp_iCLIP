@@ -1,0 +1,8 @@
+name: start
+channels:
+  - nanoporetech
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - star

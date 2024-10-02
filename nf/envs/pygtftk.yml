@@ -1,0 +1,8 @@
+name: pygtftk
+channels:
+  - nanoporetech
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - pygtftk

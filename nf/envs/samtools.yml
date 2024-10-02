@@ -1,0 +1,8 @@
+name: cutadapt
+channels:
+  - nanoporetech
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - samtools

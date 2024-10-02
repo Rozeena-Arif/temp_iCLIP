@@ -1,0 +1,8 @@
+name: r-base
+channels:
+  - nanoporetech
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-tidyverse

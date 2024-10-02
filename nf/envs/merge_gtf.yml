@@ -1,0 +1,9 @@
+name: merge_gtf
+channels:
+  - nanoporetech
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-rtracklayer
+  - bioconductor-plyranges

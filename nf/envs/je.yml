@@ -1,0 +1,8 @@
+name: je
+channels:
+  - nanoporetech
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - je-suite
